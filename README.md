@@ -17,8 +17,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Single-price-grid-component-solution)
-- Live Site URL: [live site URL](https://single-price-grid-component-solution-tau.vercel.app/)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Four-card-feature-section)
+- Live Site URL: [live site URL](https://four-card-feature-section-ecru-nine.vercel.app/)
 
 
 ## My process
