@@ -13,6 +13,10 @@ function App() {
     <section className='w-full h-full flex flex-col justify-center items-center gap-7 mt-2'>
     <Main_page/>
     <Box/>
+    <p class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://www.frontendmentor.io/profile/IndranjanaChatterjee">Indranjana Chatterjee</a>.
+    </p>
     </section>
       
     </>
